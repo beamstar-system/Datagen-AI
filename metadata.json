@@ -1,0 +1,5 @@
+{
+  "name": "Datagen.ai",
+  "description": "A high-precision dataset generator powered by Google Gemini and Google Search. Create custom, real-world datasets and export them to CSV.",
+  "requestFramePermissions": []
+}
